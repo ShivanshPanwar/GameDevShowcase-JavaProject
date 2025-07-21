@@ -48,7 +48,7 @@ This project demonstrates **foundational game development skills**, including **
 
 
 ## 📂 Project Structure
-
+```
 GameDevShowcase-JavaProject/
 │
 ├── gaming-dev/
@@ -56,20 +56,22 @@ GameDevShowcase-JavaProject/
 │       └── com/
 │           └── shivansh/
 │               └── gamedev/
-│                   ├── Board.java           # Handles game board and core mechanics
-│                   ├── GameFrame.java       # Main game window setup (JFrame)
-│                   ├── Player.java          # Player character logic and movement
-│                   ├── Enemy.java           # Enemy AI and behavior
-│                   ├── Sprite.java          # Manages sprite animations
-│                   ├── game-back.jpeg.jpg   # Background image
-│                   ├── player.gif           # Player sprite
-│                   ├── spider-enemy.gif     # Enemy sprite
-│                   └── sprites/             # Additional sprite assets
+│                   ├── Board.java          // Handles game board and core mechanics
+│                   ├── GameFrame.java      // Main game window setup (JFrame)
+│                   ├── Player.java         // Player character logic and movement
+│                   ├── Enemy.java          // Enemy AI and behavior
+│                   ├── Sprite.java         // Manages sprite animations
+│                   ├── game-back.jpeg.jpg  // Background image
+│                   ├── player.gif          // Player sprite
+│                   └── spider-enemy.gif    // Enemy sprite
+│                   └── sprites/            // Additional sprite assets
 │
 ├── .classpath
 ├── .project
 ├── .gitignore
 └── README.md
+```
+
 
 
 ## 💡 Learning Outcomes
